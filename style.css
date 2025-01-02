@@ -197,12 +197,12 @@ html{
     border-radius: 1rem;
 
     display: block;
-    width: 450px;
+    width: 350px;
 }
 
 .about-title{
     position: static;
-    margin-top: 9rem !important;
+    margin-top: 9rem;
 }
 
 .about-subtitle{
@@ -210,7 +210,7 @@ html{
 }
 
 .about-text{
-    margin-left: 30rem;
+    margin-left: 25rem;
     margin-top: 1.5rem !important;
     width: 500px;
 }
